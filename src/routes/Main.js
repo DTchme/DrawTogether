@@ -40,7 +40,6 @@ margin: 0 auto; /* 페이지 중앙 */
 
 margin-top: 16px;
 margin-bottom: 16px;
-display: flex;
 flex-direction: column;
 `;
 
